@@ -6,7 +6,7 @@ uBlock Origin script to block Tw.tv ads.
 
 ## Script
 
-- twitch-videoad - [ublock](https://github.com/alvaroorten/TwAdBlock/raw/main/twitch-videoad-ublock.js) | [ublock (permalink)](https://github.com/alvaroorten/TwAdBlock/blob/540c226749de6358c90c0354a59129afcf745b82/twitch-videoad-ublock.js)
+- twitch-videoad - [ublock](https://github.com/alvaroorten/TwAdBlock/raw/main/twitch-videoad-ublock.js) | [ublock (permalink)](https://github.com/alvaroorten/TwAdBlock/blob/250e2fb30420ea31143d4eb9ba12f1a5b66493b9/twitch-videoad-ublock.js)
   - `Video Ad-Block, for Twitch`, as a script.
   - *If the ad-free stream fails you'll see an adblocker warning.*
 
